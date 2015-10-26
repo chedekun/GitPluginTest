@@ -7,6 +7,6 @@
 <title>This is a test page</title>
 </head>
 <body>
-This is a struts project test page. 
+This is a struts project test page. Hello Git.
 </body>
 </html>
